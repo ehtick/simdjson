@@ -1,11 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"classsimdjson_1_1dom_1_1element.html#ae38f84f4272ae3c32b32dd6d5007ffb9":[11,0,0,0,3,32],
-"classsimdjson_1_1dom_1_1element.html#ae3c0226046e29cfb0e868c5251a87e53":[11,0,0,0,3,44],
-"classsimdjson_1_1dom_1_1element.html#ae5ce6ad2e6036b4bb7a78261858bb337":[11,0,0,0,3,12],
-"classsimdjson_1_1dom_1_1element.html#ae83652b5016ce4d4ff71f8f9bc05913e":[11,0,0,0,3,24],
-"classsimdjson_1_1dom_1_1element.html#aeb155c47ef7bebcad79e1b7449734030":[11,0,0,0,3,2],
-"classsimdjson_1_1dom_1_1element.html#afaaac6e2f58128a01a25b0a5f5abb856":[11,0,0,0,3,28],
 "classsimdjson_1_1dom_1_1element.html#afb98fdfcb6ddf19071cd2300613218d3":[11,0,0,0,3,41],
 "classsimdjson_1_1dom_1_1element.html#afbe1c01508f1cc39b41b79596cb5717b":[11,0,0,0,3,46],
 "classsimdjson_1_1dom_1_1element.html#afde562c5aae1b85a03ab6d4b040e7d13":[11,0,0,0,3,29],
@@ -92,10 +86,10 @@ var NAVTREEINDEX2 =
 "classsimdjson_1_1dom_1_1parser.html#af8f49755a335bc269cb02d24badfcdf9":[11,0,0,0,6,3],
 "classsimdjson_1_1dom_1_1parser.html#afb18710d2e2ef0fd40dda4887282bdb2":[11,0,0,0,6,36],
 "classsimdjson_1_1implementation.html":[11,0,0,23],
-"classsimdjson_1_1implementation.html#a404c32ec6187ac0fb5b2ec6b5aea4abd":[11,0,0,23,2],
-"classsimdjson_1_1implementation.html#a4f41daefefc573e20fccd591b158e063":[11,0,0,23,1],
-"classsimdjson_1_1implementation.html#a5e8124ff1cb55275e907a57152eb7422":[11,0,0,23,0],
+"classsimdjson_1_1implementation.html#aa1d1e04f5471283ab9b2071ea36adf00":[11,0,0,23,2],
 "classsimdjson_1_1implementation.html#aa3a7b818d56a54cca272191ec176f8f1":[11,0,0,23,4],
+"classsimdjson_1_1implementation.html#ab170b9fed9cab0daaff878472f339c40":[11,0,0,23,1],
+"classsimdjson_1_1implementation.html#ad81cac2d01b674894b102b20137f1dc7":[11,0,0,23,0],
 "classsimdjson_1_1implementation.html#adf77c9bc0869eff8fd46e942c4532135":[11,0,0,23,3],
 "classsimdjson_1_1padded__string__view.html":[11,0,0,25],
 "classsimdjson_1_1padded__string__view.html#a12b33830793e7ab1953b961088a83c3d":[11,0,0,25,4],
@@ -249,5 +243,11 @@ var NAVTREEINDEX2 =
 "haswell_2bitmask_8h_source.html":[12,0,0,0,5,3],
 "haswell_2end_8h_source.html":[12,0,0,0,5,4],
 "haswell_2implementation_8h_source.html":[12,0,0,0,5,5],
-"haswell_2intrinsics_8h_source.html":[12,0,0,0,5,6]
+"haswell_2intrinsics_8h_source.html":[12,0,0,0,5,6],
+"haswell_2numberparsing__defs_8h_source.html":[12,0,0,0,5,7],
+"haswell_2ondemand_8h_source.html":[12,0,0,0,5,8],
+"haswell_2simd_8h_source.html":[12,0,0,0,5,9],
+"haswell_2stringparsing__defs_8h_source.html":[12,0,0,0,5,10],
+"haswell_8h_source.html":[12,0,0,0,22],
+"hierarchy.html":[11,2]
 };
